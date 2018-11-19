@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:context="ca.danielw.rankr.activities.InviteActivity">
+        tools:context="net.mkungusi.rankr.activities.InviteActivity">
 
         <TextView
             android:id="@+id/inviteTitle"

@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:504789654859:android:9cb1ece1ae9b7e51",
         "android_client_info": {
-          "package_name": "ca.danielw.rankr"
+          "package_name": "net.mkungusi.rankr"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "504789654859-hj8n3lihc4qro5pkrplkd748jg4s1mf5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "ca.danielw.rankr",
+            "package_name": "net.mkungusi.rankr",
             "certificate_hash": "2d3a685ce7e2b85bd6c5fa11f87fc1917a2439b1"
           }
         },
